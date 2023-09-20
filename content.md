@@ -850,7 +850,6 @@ We should do something like the following:
 
 And that, from the perspective of a Rails developer who wants to improve the UX of their web application, is all we _need_ to know about JavaScript — for the moment.
 
-<aside markdown="1">
 Compare your experience learning JavaScript for the first time to when you learned Ruby for the first time. How did it feel this time around to learn about variables, string interpolation, arrays, arguments, etc?
 
 _So_ much better, right? This was, for me, one of the best things about learning Ruby.
@@ -859,6 +858,7 @@ After learning (the friendly, welcoming) Ruby and building some pragmatic, real-
 
 Conversely, every language has some distinctive characteristics about it that will change the way you _think_ and make you better at your previous languages. Welcome to being a polyglot programmer 🙌🏾 
 
+<aside markdown="1">
 This has hiring implications. _Really_ good developers can get up to speed on a new language pretty quickly (especially if it's a friendly language like Ruby). If there are other developers on the team to answer questions about the codebase/framework while they are working on small introductory tasks, then it shouldn't be a dealbreaker that a strong developer has 0 years of experience in a stack, if they say they're willing to learn.
 </aside>
 
